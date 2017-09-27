@@ -1,0 +1,29 @@
+Log4j : https://www.mkyong.com/logging/log4j-hello-world-example/
+
+#### PRODUCT TOC USE CASES ####
+
+LOMT-1039, LOMT-1040 and LOMT-1041
+
+TC_CASE_7_8_9_10_11 = "Mandatory and Non-mandatory, Program, Course are blank and Product Title has value";
+TC_12 = "Program, Course and Product Title has new value";
+TC_13 = "Program has new value, Course has existing value and Product Title has new or old value";
+TC_14 = "Program has existing value, Course has new value and Product Title has new or old value";
+TC_15 = "Program has existing and Course has existing value, Product Title has new or old value";
+TC_16 = "There should not be duplicate Product Title"; // not implement yet, re-ingestion 
+TC_17 = "AlignmentCode column has value";
+TC_18 = "CMT Intermediary Unique ID column has value";
+TC_19 = "Sequence mismatch for Level for Hierarchy";
+TC_20 = "Level for Hierarchy should be expanded for all level";
+TC_21 = "Alignment Code has wrong value";
+TC_22 = "CMT Intermediary Unique ID has wrong value";
+TC_23 = "Ingestion without non-mandatory fields";
+TC_25 = "Ingestion without mandatory fields";
+TC_26 = "Product Title is blank";
+TC_27 = "Level for Hierarchy is blank";
+TC_28 = "Level Title is blank";
+TC_29 = "Content Title is blank";
+TC_30 = "Level for Hierarchy and Content Title are  blank";
+TC_31 = "Level Title and Content Title are  blank";
+TC_32 = "Content Title has correct value while AlignmentCode has wrong value";
+TC_33 = "Level Title has correct value while CMT Intermediary Unique has wrong value";
+
